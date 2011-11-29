@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Select Language</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string>en</string>
+			<key>defaults</key>
+			<string>com.typostudio.rtk2localesettings</string>
+			<key>key</key>
+			<string>locale</string>
+			<key>label</key>
+			<string>Language</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>validValues</key>
+			<array>
+				<string>en</string>
+				<string>ja</string>
+				<string>zh-Hans</string>
+				<string>zh-Hant</string>
+			</array>
+			<key>validTitles</key>
+			<array>
+				<string>English</string>
+				<string>Japanese</string>
+				<string>Chinese Simplified</string>
+				<string>Chinese Traditional</string>
+			</array>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>RTK2LocaleTweak</string>
+</dict>
+</plist>

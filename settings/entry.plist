@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = RTK2LocaleSettings;
+	cell = PSLinkCell;
+	detail = RTK2LocaleSettingsListController;
+	icon = Icon-Small.png;
+	isController = 1;
+	label = RTK2LocaleTweak;
+    };
+}

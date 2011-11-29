@@ -1,0 +1,9 @@
+Package: com.typostudio.rtk2localetweak
+Name: RTK2LocaleTweak
+Depends: mobilesubstrate
+Version: 0.0.2
+Architecture: iphoneos-arm
+Description: Change language of RTK2!
+Maintainer: oldpiano
+Author: oldpiano
+Section: Tweaks
